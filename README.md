@@ -19,4 +19,4 @@ Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/mas
     * Amazon API Gateway
 
 # Web App
-![sentimentwebapp.png](sentimentwebapp.png)
+![sentimentwebapp.png](./assets/sentimentwebapp.png)
